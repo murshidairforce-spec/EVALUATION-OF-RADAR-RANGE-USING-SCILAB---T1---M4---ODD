@@ -39,3 +39,6 @@ Where:
 
 ## TABULATION
 <img width="808" height="1567" alt="image" src="https://github.com/user-attachments/assets/7cfa504d-9a81-480a-b114-1388db28d818" />
+
+## RESULT
+Thus the Autocorrelation and PSD are executed in Scilab and output is verified.
